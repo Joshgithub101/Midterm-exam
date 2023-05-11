@@ -1,0 +1,30 @@
+.container
+{
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(zyra\ backround.jpg);
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    background-color: #f9fafc;
+    color: #faf9f9;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    padding: 20px;
+}
+body
+{
+    text-align: center;
+}
+button {
+    background-color: #4285f4;
+    border: none;
+    color: #fff;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+button:hover {
+    background-color: #f2f3f5;
+}
